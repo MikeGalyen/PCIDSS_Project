@@ -26,8 +26,6 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import org.apache.derby.jdbc.ClientDataSource;
 
 /**
