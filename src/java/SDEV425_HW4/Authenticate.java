@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package SDEV425_HW4;
 
 import java.io.IOException;
@@ -20,10 +16,7 @@ import java.sql.PreparedStatement;
 import jakarta.servlet.Filter;
 import org.apache.derby.jdbc.ClientDataSource;
 
-/**
- *
- * @author jim
- */
+
 public class Authenticate extends HttpServlet {
 
     // variables    
